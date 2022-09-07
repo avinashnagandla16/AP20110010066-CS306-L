@@ -1,0 +1,26 @@
+#	
+identifier:	include
+relational_operator:	<
+identifier:	stdio
+.	
+identifier:	h
+relational_operator:	>
+keyword:	int
+identifier:	main
+delimiter:	(
+delimiter:	)
+delimiter:	{
+identifier:	printf
+delimiter:	(
+delimiter:	"
+identifier:	successfully
+identifier:	completed
+identifier:	lab
+number:	2
+delimiter:	"
+delimiter:	)
+delimiter:	;
+identifier:	return
+number:	0
+delimiter:	;
+delimiter:	}
