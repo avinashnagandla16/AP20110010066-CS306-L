@@ -42,7 +42,7 @@ char id[20], num[10],rop[10],spcf[12];
 
  FILE *f1,*f2;
 
- f1=fopen("S:/CD/New folder/input.txt","r");
+ f1=fopen("input.txt","r");
  f2=fopen("output.txt","w");
  char c;
   int j=0;
