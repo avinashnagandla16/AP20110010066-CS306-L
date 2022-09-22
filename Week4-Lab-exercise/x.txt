@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
- int a,b=067,c=1000;
+ int a,b=066,c=1000;
  printf("My name is Nagandla.Avinash");
  if((a+b)>c)
  printf("sum is greater than c");
